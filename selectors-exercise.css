@@ -1,0 +1,17 @@
+.boldred {
+	color: red; 
+	font-weight: bold;
+	}
+.ital {
+	font-style: italic;
+	}
+.span1 {
+	color: green; 	
+	font-weight: bold;
+	}
+.yellow {
+	background-color: yellow;
+	}
+.under {
+	text-decoration: underline;
+	}
